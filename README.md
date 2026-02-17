@@ -54,6 +54,19 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBzNHB6ZHhhYWVlanR1cnVnbXNpNzltdnZnODFkYjRjbG1sbTNhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jAZlhubCO4zQGeSGOp/giphy.gif" width="600" height="400">
 </div>
 
+<div align="center">
+  <h3>🏆 Certificações</h3>
+  
+  <a href="https://www.credly.com/badges/33ce18bc-107b-4943-b375-b6e06ed3a81f" target="_blank">
+    <img src="https://github.com/user-attachments/assets/468c848d-6e43-4f64-b893-86cd7c71859c" width="160" alt="Cisco CCST Cybersecurity">
+  </a>
+  
+  <br> <a href="https://www.credly.com/users/celine-matias/badges" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_todas_no-Credly-2E8B57?style=for-the-badge&logo=credly&logoColor=white">
+  </a>
+
+</div>
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
